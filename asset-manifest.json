@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ClinicQueue/static/css/main.e8ecec11.css",
+    "main.js": "/ClinicQueue/static/js/main.9a56df8c.js",
+    "static/media/bg.jpg": "/ClinicQueue/static/media/bg.84769f2060838ff22da8.jpg",
+    "static/media/klinik.png": "/ClinicQueue/static/media/klinik.b56a4763ce74f094d146.png",
+    "static/media/ilustrasi.png": "/ClinicQueue/static/media/ilustrasi.34d35311ced34aa9c347.png",
+    "index.html": "/ClinicQueue/index.html",
+    "main.e8ecec11.css.map": "/ClinicQueue/static/css/main.e8ecec11.css.map",
+    "main.9a56df8c.js.map": "/ClinicQueue/static/js/main.9a56df8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ecec11.css",
+    "static/js/main.9a56df8c.js"
+  ]
+}
